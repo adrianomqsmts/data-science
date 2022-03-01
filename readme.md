@@ -6,16 +6,12 @@ Este repositório também contém um compilado das aulas online dos cursos ["Ci�
 
 ## Projetos
 
-A pasta "Projetos" contém trabalhos, competições e exemplos práticos.
+A pasta "000 - PROJETOS" contém trabalhos e exemplos práticos dos cursos e estudos.
 
 Os principais projetos são:
-- Titanic
-- Enem 206
-- Departamento de Marketing
+- Titanic: Perver Sobreviventes
+- Enem 2016: Prever Notas
+- Departamento de RH: Prever a probabilidade de um funcionário deixar a empresa
 
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA]() para mais detalhes.
 
 [⬆ Voltar ao topo](#data-science-study)<br>
