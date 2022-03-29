@@ -12,6 +12,7 @@ Os principais projetos são:
 - Titanic: Perver Sobreviventes
 - Enem 2016: Prever Notas
 - Departamento de RH: Prever a probabilidade de um funcionário deixar a empresa
+- Departamento de Vendas: Estimar o lucro de uma loja, considerando o concorrente, feriados e o uso de promoção.
 
 
 [⬆ Voltar ao topo](#data-science-study)<br>
